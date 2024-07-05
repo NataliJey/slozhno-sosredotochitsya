@@ -1,12 +1,13 @@
-/*
-  Специально для тёмной темы при наличии класса,
-  здесь окажутся стили, которые нужно переопределить принудительно,
-  переключая тему
-*/
-
 .page.theme_dark {
-  /* сохраните этот селектор в приведённом виде.
-    Так стили написанные ниже будут иметь больший вес,
-    чем стили в медиазапросе предпочтений пользователя
-  */
+  --accent-color: #ff0070;
+  --primary-color: #db00ff;
+  --secondary-color: #ff0070;
+  --secondary-color-o-40: #ff007040;
+  --tretiary-color: #000028;
+
+  --page-text-color: #f1b2ce;
+  --page-background-color: #000028;
+  --page-background-image: url("../images/cover-image-dark.png");
+
+  --rec-visibility: visible;
 }
