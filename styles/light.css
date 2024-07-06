@@ -2,7 +2,7 @@
   --accent-color: #ff8dcb;
   --primary-color: #ffc2e6;
   --secondary-color: #353430;
-  --secondary-color-o-40: #35343040;
+  --highlight-color: #35343040;
   --tretiary-color: #353430;
 
   --page-text-color: #353430;
@@ -17,7 +17,7 @@
     --accent-color: #ff8dcb;
     --primary-color: #ffc2e6;
     --secondary-color: #353430;
-    --secondary-color-o-40: #35343040;
+    --highlight-color: #35343040;
     --tretiary-color: #353430;
 
     --page-text-color: #353430;

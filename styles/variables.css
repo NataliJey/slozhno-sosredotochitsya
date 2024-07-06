@@ -1,13 +1,13 @@
 :root {
   --page-text-color: #f1b2ce;
   --page-font-family: "IBM Plex mono", monospace;
-  --page-background-image: url("../images/cover-image.png");
+  --page-background-image: url("../images/cover-image-dark.png");
   --page-background-color: #000028;
 
   --accent-color: #ff0070;
   --primary-color: #db00ff;
   --secondary-color: #ff0070;
-  --secondary-color-o-40: #ff007040;
+  --highlight-color: #ff007040;
   --tretiary-color: #000028;
 
   --rec-visibility: visible;
